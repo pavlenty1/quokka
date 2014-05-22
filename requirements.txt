@@ -1,3 +1,6 @@
+nose
+coverage
+coveralls
 flask
 flask-script
 WTForms
@@ -7,8 +10,9 @@ blinker
 Flask-Assets
 Flask-Babel
 Flask-Bcrypt
-Flask-Gravatar
+Flask-Mistune
 Flask-OAuthlib
+Flask-Gravatar
 https://github.com/majorz/flask-htmlbuilder/tarball/master
 Flask-Login<0.2.7
 Flask-Principal
@@ -22,13 +26,10 @@ dealer
 flask-collect
 flake8
 passlib
-twill
 markupsafe
 Pillow
 pyyaml
 speaklater
 https://github.com/pythonhub/quokka-themes/tarball/master
 https://github.com/pythonhub/flask-security/tarball/quokka
-awesome-slugify
-Flask-Mistune
-nose
+awesome_slugify
